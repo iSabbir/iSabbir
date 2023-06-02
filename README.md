@@ -4,7 +4,7 @@
 </p>
 
 <!-- Add a catchy title -->
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Sabbir 👋</h1>
 
 <!-- Add a brief description -->
 <p align="center">
@@ -13,9 +13,9 @@
 
 <!-- Add some social media or contact links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourname"><img src="linkedin.svg" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle"><img src="twitter.svg" alt="Twitter"></a>
-  <a href="mailto:youremail@example.com"><img src="email.svg" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/yourname"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.png" alt="Twitter"></a>
+  <a href="mailto:youremail@example.com"><img src="https://www.svgrepo.com/show/61043/empty-email.svg" alt="Email"></a>
 </p>
 
 ---
