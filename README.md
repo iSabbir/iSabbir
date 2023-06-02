@@ -1,6 +1,6 @@
 <!-- Add your own header image or logo -->
 <p align="center">
-  <img src="[header_image.png](https://avatars.githubusercontent.com/u/131774907?s=400&u=0e49b6aad05c03465d80e3cce57225254de5a24f&v=4)" alt="Header">
+  <img src="https://avatars.githubusercontent.com/u/131774907?s=400&u=0e49b6aad05c03465d80e3cce57225254de5a24f&v=4" alt="Header">
 </p>
 
 <!-- Add a catchy title -->
