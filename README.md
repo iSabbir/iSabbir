@@ -4,7 +4,7 @@
 </p>
 
 <!-- Add a catchy title -->
-<h1 align="center">Hello, I'm Sabbir 👋</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Sabbir</h1>
 <p align="left"> <a href="https://github.com/iSabbir"><img src="https://komarev.com/ghpvc/?username=iSabbir&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
 
 <!-- Add a brief description -->
