@@ -5,6 +5,7 @@
 
 <!-- Add a catchy title -->
 <h1 align="center">Hello, I'm Sabbir 👋</h1>
+<p align="left"> <a href="https://github.com/iSabbir"><img src="https://komarev.com/ghpvc/?username=iSabbir&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
 
 <!-- Add a brief description -->
 <p align="center">
@@ -14,10 +15,11 @@
 <!-- Add some social media or contact links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yourname"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="60" height="40"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.png" alt="Twitter" width="60" height="40"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="60" height="40"></a>
   <a href="mailto:youremail@example.com"><img src="https://www.svgrepo.com/show/61043/empty-email.svg" alt="Email" width="60" height="40"></a>
 </p>
-
+### Support Group:
+<a href="https://t.me/bdbots"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 ---
 
 <!-- Add a summary of your skills and expertise -->
