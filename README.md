@@ -32,16 +32,16 @@
 <!-- Add a section for your open-source contributions -->
 ## 🌱 Open Source Contributions
 
-- [Project 1](https://github.com/username/project1) - A description of your contribution.
-- [Project 2](https://github.com/username/project2) - Another description of your contribution.
+- [Project 1](https://github.com/isabbir/project1) - A description of your contribution.
+- [Project 2](https://github.com/isabbir/project2) - Another description of your contribution.
 
 ---
 
 <!-- Add a section for your recent projects -->
 ## 🚀 Recent Projects
 
-- [Project 3](https://github.com/username/project3) - Brief project description.
-- [Project 4](https://github.com/username/project4) - Brief project description.
+- [Project 3](https://github.com/isabbir/project3) - Brief project description.
+- [Project 4](https://github.com/isabbir/project4) - Brief project description.
 
 ---
 
@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=isabbir&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 ---
@@ -99,8 +99,8 @@
 <!-- Add a section for your contributions to the open-source community -->
 ## 🤝 Contributions to the Open-Source Community
 
-- [Project 5](https://github.com/username/project5) - Description of your contribution.
-- [Project 6](https://github.com/username/project6) - Description of your contribution.
+- [Project 5](https://github.com/isabbir/project5) - Description of your contribution.
+- [Project 6](https://github.com/isabbir/project6) - Description of your contribution.
 
 ---
 
@@ -114,5 +114,5 @@
 
 <!-- Add a footer with your name and optional message -->
 <p align="center">
-  <samp>Created with ❤️ by [Your Name]</samp>
+  <samp>Created with ❤️ by Sabbir</samp>
 </p>
