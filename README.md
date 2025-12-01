@@ -1,123 +1,159 @@
-<!-- Add your own header image or logo -->
+<!-- ================================================================================= -->
+<!--                           S A B B I R   |   C Y B E R P U N K                     -->
+<!-- ================================================================================= -->
+
+<!-- ========================= NEON TYPING BANNER ========================= -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/131774907?s=400&u=0e49b6aad05c03465d80e3cce57225254de5a24f&v=4" alt="Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00f0ff&center=true&width=1000&lines=HI+I'M+SABBIR+⚡+PYTHON+DEVELOPER;WELCOME+TO+MY+CYBER+PROFILE;FULLSTACK+DEV+%7C+AI+BUILDER+%7C+OPEN+SOURCE" />
 </p>
 
-<!-- Add a catchy title -->
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Sabbir</h1>
-<p align="left"> <a href="https://github.com/iSabbir"><img src="https://komarev.com/ghpvc/?username=iSabbir&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
-
-<!-- Add a brief description -->
+<!-- ========================= NEON HEADER SVG ========================= -->
 <p align="center">
-  <samp>Passionate Python developer | Open-source enthusiast | Tech lover</samp>
+  <img src="https://img.shields.io/badge/--%20SABBIR%20%7C%20CYBERPUNK%20DEVELOPER%20--?style=for-the-badge&labelColor=000000&colorA=00eaff&colorB=ff00f0" />
 </p>
 
-<!-- Add some social media or contact links -->
+<!-- ========================= AVATAR WITH NEON GLOW ========================= -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourname"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="60" height="40"></a>
-  <a href="https://twitter.com/Sabbir_iDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="60" height="40"></a>
-  <a href="mailto:sabbir_idev@etlgr.com"><img src="https://www.svgrepo.com/show/61043/empty-email.svg" alt="Email" width="60" height="40"></a>
+  <img src="https://avatars.githubusercontent.com/u/131774907?v=4" width="170" style="border-radius:50%; box-shadow:0 0 40px #00eaff, 0 0 120px #ff00f0;">
 </p>
-### Support Group:
-<a href="https://t.me/bdbots"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
----
-
-<!-- Add a summary of your skills and expertise -->
-## ⚡️ Skills
-
-- Python | JavaScript | HTML | CSS
-- Django | Flask | React | Vue.js
-- Git | GitHub | Docker | AWS
-
----
-
-<!-- Add a section for your open-source contributions -->
-## 🌱 Open Source Contributions
-
-- [Project 1](https://github.com/iSabbir/Google-Search-Telegram-Bot) - Google Search Telegram Bot
-- [Project 2](https://github.com/iSabbir/Shizuki-Chatbot) - Shizuki-Chatbot for Telegram
-
----
-
-<!-- Add a section for your recent projects -->
-## 🚀 Recent Projects
-
-- [Project 3](https://github.com/iSabbir/Google-Search-Telegram-Bot) - Google Search Telegram Bot
-- [Project 4](https://github.com/iSabbir/Shizuki-Chatbot) - Shizuki-Chatbot for Telegram
-- [Project 5](https://diuquestionbank.com/) - Daffodil International University Question bank
-- [Project 6](https://diuquestionbank.com/pages/questions.php) - PDF Viewing Tools at https://diuquestionbank.com
-
-# More Coming Soon Bro
-  
----
-
-<!-- Add a section for your blog posts or articles -->
-## 📝 Blog Posts
-
-- [How To Make Google Search Telegram Bot | Telegram Bot Tutorial | Gadget Fusion Lab](https://www.gadgetfusionlab.com/2023/09/how-to-make-google-search-telegram-bot.html) - Utilizing the strength of open-source technology, discover the step-by-step procedure for deploying, setting up, and optimizing a Google Search Telegram Bot on Heroku .
-- [How To Make Own HTML Editor](https://www.gadgetfusionlab.com/2023/09/how-to-make-own-html-editor.html) - Make Own HTML Editor.
-
----
-
-<!-- Add a section for your GitHub stats -->
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabbir&show_icons=true&theme=dark" alt="GitHub Stats">
+  <samp><i>Python Developer • Open-Source • Tech Enthusiast</i></samp>
+</p>
+
+<!-- ========================= SOCIAL & CONTACT BADGES ========================= -->
+<p align="center">
+  <a href="https://github.com/iSabbir">
+    <img src="https://img.shields.io/badge/GitHub-@iSabbir-171515?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://t.me/bdbots">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Group-00ACEE?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="mailto:sabbir_idev@etlgr.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Direct-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iSabbir.iSabbir" />
 </p>
 
 ---
 
-<!-- Add a section for your favorite programming quotes -->
-## 💬 Favorite Programming Quotes
-
-> "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
-
-> "The most important property of a program is whether it accomplishes the intention of its user." - C.A.R. Hoare
-
----
-
-<!-- Add a section for your favorite coding playlists -->
-## 🎧 Favorite Coding Playlists
-
-- [Coding Beats](https://open.spotify.com/track/5VqK1eXWNgSQqNyPMl8YQ5?si=1e5b992eacac409a) - Curated playlist for coding sessions.
-- [Focus Flow](https://open.spotify.com/track/1b5kTQqBybGOwzqDPZwfBi?si=4a090ea0224044e3) - Music to help you stay focused and productive.
+<!-- ========================= MATRIX ASCII INTRO ========================= -->
+<pre align="center" style="font-family: monospace;">
+__   __                ____       _        __  __        _ 
+\ \ / /__  _   _      / ___| ___ | |_     |  \/  | ___  | |
+ \ V / _ \| | | |    | |  _ / _ \| __|    | |\/| |/ _ \ | |
+  | | (_) | |_| |    | |_| | (_) | |_     | |  | |  __/ |_|
+  |_|\___/ \__,_|     \____|\___/ \__|    |_|  |_|\___| (_)
+</pre>
 
 ---
 
-<!-- Add a section for your latest YouTube videos or tutorials -->
-## 🎥 Latest YouTube Videos
-
-- [How To Make Google Search Telegram Bot | Telegram Bot Tutorial | BLACK MAXBD](https://youtu.be/X2J9UVrzEtk) - Deploy Google Search Bot In Heroku .
-- [How To Make own HTML Editor | BLACK MAXBD | GADGET FUSION LAB](https://youtu.be/GiF5kmSVpVI) - Make own HTML Editor | BLACK MAXBD | GADGET FUSION LAB .
-
----
-
-<!-- Add a section for your GitHub activity graph -->
-## 📈 GitHub Activity
-
+<!-- ========================= TERMINAL HACKER TYPE ========================= -->
 <p align="center">
-  <img src="https://ghactivity.mrayush.me/graph?username=isabbir&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=39ff14&center=true&width=900&lines=$+Initializing+Sabbir.Dev...;Loading+Cyberpunk+Modules...;>+AI+Systems+Online;>+Telegram+Bots+Online;>+Fullstack+Engine+Running" />
 </p>
 
 ---
 
-<!-- Add a section for your contributions to the open-source community -->
-## 🤝 Contributions to the Open-Source Community (Own)
-
-- [Project 5](https://github.com/iSabbir/Shizuki-Chatbot) - AI Chatbot
-- [Project 6]([https://github.com/iSabbir/Google-Search-Telegram-Bot) - Google Search With AI
----
-
-<!-- Add a section for your favorite books on programming or technology -->
-## 📚 Favorite Books on Programming & Technology
-
-- "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
-- "The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
-
----
-
-<!-- Add a footer with your name and optional message -->
+# ⚡ Tech Stack
 <p align="center">
-  <samp>Created with ❤️ by Sabbir</samp>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,vue,html,css,git,github,docker,aws&perline=6" />
 </p>
+
+---
+
+# 📊 Skill Levels
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-88%25-0c4b33?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-f7df1e?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-82%25-61dafb?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Docker-70%25-2496ed?style=for-the-badge&logo=docker" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔥 Google Search Telegram Bot  
+✔ Smart Google Search results in Telegram  
+🔗 https://github.com/iSabbir/Google-Search-Telegram-Bot  
+
+---
+
+### 🤖 Shizuki AI Chatbot  
+✔ AI conversational bot for Telegram  
+🔗 https://github.com/iSabbir/Shizuki-Chatbot  
+
+---
+
+### 📚 DIU Question Bank  
+✔ University question archive + PDF tools  
+🔗 https://diuquestionbank.com  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
+</p>
+
+---
+
+# 📝 Blog Posts  
+- 📘 **Deploy Google Search Telegram Bot**  
+  https://www.gadgetfusionlab.com/2023/09/how-to-make-google-search-telegram-bot.html  
+
+- 📝 **Build Your Own HTML Editor**  
+  https://www.gadgetfusionlab.com/2023/09/how-to-make-own-html-editor.html  
+
+---
+
+# 🎥 Latest YouTube Uploads  
+- ▶️ Deploy Google Search Telegram Bot  
+  https://youtu.be/X2J9UVrzEtk  
+
+- ▶️ Build Your Own HTML Editor  
+  https://youtu.be/GiF5kmSVpVI  
+
+---
+
+# 📈 GitHub Activity (Stable)
+
+<p align="center">
+  <img src="https://ghactivity.mrayush.me/graph?username=iSabbir&bg_color=0d0f14&color=00eaff&line=ff00f0&point=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/iSabbir?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/followers/iSabbir?style=for-the-badge&color=blue" />
+</p>
+
+---
+
+# 💬 Favorite Quotes  
+> *“Programs must be written for people to read, and only incidentally for machines to execute.”* — Harold Abelson  
+> *“The most important property of a program is whether it accomplishes the intention of its user.”* — C.A.R. Hoare  
+
+---
+
+# 🎧 Coding Playlists  
+- 🎵 **Coding Beats** — Focus-high music  
+- 🎵 **Focus Flow** — Deep concentration tracks  
+
+---
+
+# 📚 Books I Recommend  
+- *Clean Code* — Robert C. Martin  
+- *The Pragmatic Programmer* — Andrew Hunt & David Thomas  
+
+---
+
+<!-- ========================= NEON CYBER FOOTER ========================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/MADE_WITH-❤-ff00f0?style=for-the-badge&labelColor=000000" />
+</p>
+
+<p align="center">
+  <samp>⚡ Created by <b>Sabbir</b> — Welcome to the Cyber Realm ⚡</samp>
+</p>
+
