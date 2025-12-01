@@ -44,7 +44,11 @@
 
 - [Project 3](https://github.com/iSabbir/Google-Search-Telegram-Bot) - Google Search Telegram Bot
 - [Project 4](https://github.com/iSabbir/Shizuki-Chatbot) - Shizuki-Chatbot for Telegram
+- [Project 5](https://diuquestionbank.com/) - Daffodil International University Question bank
+- [Project 6](https://diuquestionbank.com/pages/questions.php) - PDF Viewing Tools at https://diuquestionbank.com
 
+# More Coming Soon Bro
+  
 ---
 
 <!-- Add a section for your blog posts or articles -->
@@ -99,11 +103,10 @@
 ---
 
 <!-- Add a section for your contributions to the open-source community -->
-## 🤝 Contributions to the Open-Source Community
+## 🤝 Contributions to the Open-Source Community (Own)
 
-- [Project 5](https://github.com/iSabbir/Shizuki-Chatbot) - Description of your contribution.
-- [Project 6]([https://github.com/iSabbir/Google-Search-Telegram-Bot) - Description of your contribution.
-
+- [Project 5](https://github.com/iSabbir/Shizuki-Chatbot) - AI Chatbot
+- [Project 6]([https://github.com/iSabbir/Google-Search-Telegram-Bot) - Google Search With AI
 ---
 
 <!-- Add a section for your favorite books on programming or technology -->
