@@ -29,7 +29,7 @@
   <a href="https://t.me/bdbots">
     <img src="https://img.shields.io/badge/Telegram-Join%20Group-00ACEE?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="mailto:sabbir_idev@etlgr.com">
+  <a href="mailto:sabbir@bdbots.org">
     <img src="https://img.shields.io/badge/Email-Contact_Direct-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=iSabbir.iSabbir" />
